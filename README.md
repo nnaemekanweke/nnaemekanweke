@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nnaemekanweke
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning VueJs
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via nnaemeka.nweke2@gmail.com
 
