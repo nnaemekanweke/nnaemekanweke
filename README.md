@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 PHP and JavaScript Engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via nnaemeka.nweke2@gmail.com
+- 📫 You can reach me via frank@nnaemekanweke.com
 
 <!---
 nnaemekanweke/nnaemekanweke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
